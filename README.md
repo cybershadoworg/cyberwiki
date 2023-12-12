@@ -1,1 +1,1 @@
-# CyberWiki | Your One Stop Solution for Cyber Security Intelligence
+CyberWiki | Your One Stop Solution for Cyber Security Intelligence
